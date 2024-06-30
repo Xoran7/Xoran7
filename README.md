@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+这是一个自我介绍，但我还没想好写什么hh
+
 <!--
 **Xoran7/Xoran7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
